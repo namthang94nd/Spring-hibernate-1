@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [22/Aug/2016:10:17:43 +0700] "GET /SpringMVCHibernateTransaction HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [22/Aug/2016:10:17:43 +0700] "GET /SpringMVCHibernateTransaction/ HTTP/1.1" 200 57 http-bio-8080-exec-7 100
+0:0:0:0:0:0:0:1 - - [22/Aug/2016:10:17:43 +0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [22/Aug/2016:10:17:52 +0700] "GET /SpringMVCHibernateTransaction HTTP/1.1" 302 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [22/Aug/2016:10:17:52 +0700] "GET /SpringMVCHibernateTransaction/ HTTP/1.1" 200 57 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [22/Aug/2016:10:18:03 +0700] "GET /SpringMVCHibernateTransaction/deptList HTTP/1.1" 500 10302 http-bio-8080-exec-10 1205
+0:0:0:0:0:0:0:1 - - [22/Aug/2016:10:38:10 +0700] "GET /SpringMVCHibernateTransaction/ HTTP/1.1" 200 57 http-bio-8080-exec-1 95
+0:0:0:0:0:0:0:1 - - [22/Aug/2016:10:38:11 +0700] "GET /SpringMVCHibernateTransaction/ HTTP/1.1" 200 57 http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [22/Aug/2016:10:38:15 +0700] "GET /SpringMVCHibernateTransaction/deptList HTTP/1.1" 200 1710 http-bio-8080-exec-8 1912
